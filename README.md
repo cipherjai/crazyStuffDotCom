@@ -1,0 +1,2 @@
+# crazyStuffDotCom
+justAnother Vague library
